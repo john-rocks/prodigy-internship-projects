@@ -51,4 +51,4 @@ This repository serves as a central hub for all my PRODIGY projects, each with i
 
 ---
 
-⭐ *This repository is part of my [My Projects](https://github.com/john-rocks/my-projects) portfolio.*
+
